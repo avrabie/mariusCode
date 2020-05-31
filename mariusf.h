@@ -1,0 +1,1 @@
+int* populateTheArray(const int *arr, int n);
